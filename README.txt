@@ -46,7 +46,8 @@ its command line interface and options.
 			lyra2v2     Monacoin
 			lyra2v3     Vertcoin
 			myr-gr      Myriad-Groestl
-            neoscrypt   neoscrypt (FeatherCoin)
+			neoscrypt   neoscrypt
+			neoscrypt-xaya   Xaya
 			nist5       NIST5 (TalkCoin)
 			penta       Pentablake hash (5x Blake 512)
 			quark       Quark
@@ -226,6 +227,7 @@ features.
 2019-02-07 v8.24: add lyra2v3 algo
 2019-05-10 v8.25: fix invalid share bug
 2021-07-08 v8.26: suppoort for more than 8 CPU cores, bugfix for for some coins
+2022-12-11 v8.26.1: add neoscrypt-xaya
 
 >>> AUTHORS <<<
 
